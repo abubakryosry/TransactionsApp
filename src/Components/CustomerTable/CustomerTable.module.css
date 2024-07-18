@@ -1,0 +1,9 @@
+.over_dropdown_item {
+    transition: background-color 0.3s ease; /* Smooth transition for background-color */
+  }
+  
+  .over_dropdown_item:hover {
+    background-color: #000000; /* Change background color on hover */
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  
